@@ -1,8 +1,6 @@
-header{
-    max-height: 10px;
-
+#header{
+    position: inherit;
+    display: inline;
+    max-height: 50px;
 }
 
-p{
-    color: red;
-}
