@@ -1,6 +1,29 @@
-#header{
-    position: inherit;
-    display: inline;
-    max-height: 50px;
+#logoAP{
+    height: 3em;
+    width: 10em;
+}
+.col-3 img {
+  display: inline-block;
+  height: 3em;
+  width: 3em;
+}
+
+#upper-header {
+  margin-bottom: 2em;
+}
+
+.container, .seccion{
+    border-radius: 4%;
+    border-color: grey;
+    border-style: solid;
+    padding: 3em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#perfil{
+    border-radius: 50%;
+    height: 10em;
+    width: 10em;
 }
 
